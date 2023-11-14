@@ -10,8 +10,7 @@ Greetings! 👋 I'm K.N Piyumina, an undergraduate student at Plymouth Universit
 - 👯 I’m open to collaboration on projects involving simulation, low-level programming, or the integration of SimPy with ML/NN.
 - 💬 Let's chat about SimPy, low-level programming, or any tech-related topics.
 - 📫 Reach me via [LinkedIn](Your LinkedIn Profile URL) or [Twitter](Your Twitter Profile URL).
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I find joy in the elegance of low-level programming intricacies.
+
 
 ## Technologies & Tools
 
