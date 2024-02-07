@@ -14,6 +14,7 @@ Greetings! 👋 I'm K.N Piyumina, an undergraduate student at Plymouth Universit
 - Python
 - Rust
 - C
+- Go (currently learning)
 - Machine Learning
 
 ## Connect with Me
@@ -26,6 +27,6 @@ Greetings! 👋 I'm K.N Piyumina, an undergraduate student at Plymouth Universit
 
 ## Recent Projects
 
-- [Project Zimular] https://github.com/theDewill/Zimular/tree/dev  --under dev.
+- [Project Zimular] https://github.com/theDewill/Zimular/tree/dev  --under development.
 
 
