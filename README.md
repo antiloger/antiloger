@@ -2,10 +2,10 @@
 
 ## Technologies & Tools
 
-- Python
 - Rust
-- C
-- Go (currently learning)
+- Go
+- Python
+- TS/JS
 - Machine Learning
 
 ## Connect with Me
